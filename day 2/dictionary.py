@@ -1,0 +1,22 @@
+person={
+    'name':'ram',
+    'age':12,
+    'hobby':(
+        'programming',
+        'reading books'
+    ),
+    'family_members':[
+        {
+            'relation':'mother'
+            'name':'abc'
+        },
+        {
+            'relation':'mother'
+            'name':'abc'
+        },
+        {
+            'relation':'mother'
+            'name':'abc'
+        },
+    ]
+    }

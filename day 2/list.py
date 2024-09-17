@@ -1,0 +1,9 @@
+fruits=[
+    'apple',
+    'orange',
+    'kivi',
+    'banana'
+]
+print(fruits[0])
+print(type(fruits))
+print(fruits)
